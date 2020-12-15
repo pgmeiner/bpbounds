@@ -9,10 +9,6 @@ To install the `bpbounds` package from github execute the following commands in 
 pip install git+https://github.com/pgmeiner/bpbounds.git
 ```
 
-```setup
-pip install -r requirements.txt
-```
-
 ## Usage
 
 The formulas for the Balke-Pearl bounds apply in situations were three random variables `X`, `Y`, and `Z` are related via an instrumental setting. That means
